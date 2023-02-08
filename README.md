@@ -1,6 +1,6 @@
 ## Привет, меня зовут Сталев Павел и это мой GitHub
 
-<img src="[https://e7.pngegg.com/pngimages/561/433/png-clipart-web-development-programmer-computer-programming-software-developer-white-collar-miscellaneous-business-thumbnail.png](https://www.pngmart.com/files/22/Programmer-PNG-Photos.png)">
+<img src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2417.jpg">
 
 ---
 
