@@ -1,16 +1,34 @@
-### Hi there 👋
+## Привет, меня зовут Сталев Павел и это мой GitHub
 
-<!--
-**ChikenPashtet/ChikenPashtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://e7.pngegg.com/pngimages/561/433/png-clipart-web-development-programmer-computer-programming-software-developer-white-collar-miscellaneous-business-thumbnail.png">
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :nerd_face: About Me :
+
+Я Java + Flutter разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из
+России.
+
+- 🔭 Перешёл в разработку, потому что не смог выдержать быть бюджетником;
+- 🌱 Стараюсь учиться чему-то новому и применять новый стек в каждом проекте;
+- ⚡ Хочу вырасти в крутой компании;
+- 😄 Уехал на год в другую страну, чтобы выучить новый язык и подтянуть английский!
+
+---
+
+### :hammer_and_wrench: Стэк:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg"  title="Dart" alt="dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+
+</div>
+
+---
+
+### :fire: Моя статистика :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChikenPashtet&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikenPashtet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
